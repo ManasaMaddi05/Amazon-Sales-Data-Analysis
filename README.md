@@ -1,4 +1,5 @@
-##### Amazon Sales Data Analysis
+###### Amazon Sales Data Analysis
+
 ## Project Overview
 This project focuses on an in-depth analysis of Amazon product review data using Python, with the aim of uncovering valuable insights into customer behavior, product performance, and review patterns. The dataset contains over 568,000 reviews and includes attributes like product IDs, user IDs, helpfulness scores, review text, and ratings. By cleaning the data, removing duplicates, and applying both statistical and visual analyses, we aim to identify the most frequently purchased products, customer sentiment trends, and patterns in review ratings.
 
